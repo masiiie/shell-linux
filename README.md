@@ -7,4 +7,4 @@ Shell development in the C language to simulate shells of the Linux operating sy
 
 * It print a Linux similar promt (*$*).
 * It run commands and print their output.
-* It `cd` command.
+* It run `cd` command and it change directory.

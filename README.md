@@ -1,4 +1,4 @@
-# Shell to Linux
+# Machine Programming II Project
 
 Shell development in the C language to simulate shells of the Linux operating system.
 
